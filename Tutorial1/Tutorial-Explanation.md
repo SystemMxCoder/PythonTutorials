@@ -20,4 +20,4 @@ Well done, this is your first peace of code, now let we check if the code is wor
 - Open your terminal and browse to your folder where you stored your python file.
 - The best thing to do next is to make it runnable, you can do this very easy with the follow command: **chmod +x filename.py**, where filename.py needs to correspond with your own .py file.
 - Next enter the follow command in your terminal: *./filename.py*, where ofcourse filename.py needs to correspond with your .py file.
-- If everything is correct you see the text *hello world* in your terminal.
+- If everything is correct you see the text *hello world* in your terminal. 
