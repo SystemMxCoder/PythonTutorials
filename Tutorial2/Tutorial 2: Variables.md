@@ -13,6 +13,8 @@ As you see, your code didn't return anything to the screen. This is correct beca
 
 - Return to your code in your code editor.
 - Under the line *name="willie"* place the follow code: *print(name)*
-- If everything is correct you will now see in your terminal willie
+- If everything is correct you will now see in your command prompt / terminal willie
 
-This second line of code prints the variable name that contains willie.
+What happens here is that the name variable that held the content *Willie* is placed on the screen by the in-build print function as you can see in you second line code *print(name)* it tells us to print the content of the variable name on the screen.
+
+
